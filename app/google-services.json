@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "774879194554",
+    "project_id": "desarrollo-movil-nativo-30ec9",
+    "storage_bucket": "desarrollo-movil-nativo-30ec9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774879194554:android:f6ce3e1290bfad9c168183",
+        "android_client_info": {
+          "package_name": "co.edu.sena.AppYesikaMunoz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774879194554-krtkachrgtr4lir78nciue64gsqq2h5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxXotNQCjxgfvMK1ycZAKYLQBlOZdAuVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774879194554-krtkachrgtr4lir78nciue64gsqq2h5o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
